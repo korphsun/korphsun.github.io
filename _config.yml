@@ -1,2 +1,4 @@
 name: Sun, Writer
 markdown: kramdown
+
+theme: jekyll-theme-minimal
